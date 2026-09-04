@@ -18,6 +18,7 @@
 - 🚀 **Actively looking for opportunities** in Data Analytics / Data Science
 - 💬 Ask me about **dashboard development, cohort/retention analysis, ETL design, or experiment design**
 - 📫 Reach me via the links below
+- https://www.linkedin.com/in/tulsi-rajora-362021253
 
 ---
 
