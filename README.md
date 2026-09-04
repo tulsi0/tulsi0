@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tulsi Rajora</h1>
-<h3 align="center">Data Analyst @ Maha & Co | Power BI • SQL • Python | Biomedical Engineering background</h3>
+<h3 align="center">Data Analytics & Data Science Fresher | Power BI • SQL • Python | Biomedical Engineering background</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%40+Maha+%26+Co;Power+BI+%2B+SQL+%2B+Python+%2B+ML;Dashboards%2C+MIS+Automation%2C+Data-driven+Decisions;Turning+messy+data+into+clean+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analytics+%2F+Data+Science+Fresher;Power+BI+%2B+SQL+%2B+Python+%2B+ML;Actively+seeking+Data+Analyst+%2F+Data+Scientist+roles;Turning+messy+data+into+clean+insights" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
+- 🎓 Data Analytics / Data Science **fresher**, actively looking for opportunities
+- 💼 Previously built interactive **Power BI dashboards** and MIS automation tools for client accounts as a Data Analyst at Maha & Co
 - 🧬 Research-oriented foundation from **Biomedical Engineering** — presented work on privacy-preserving Parkinson's disease classification using federated learning at the **IEEE Student Research Conference 2025**
 - 📊 Skilled in **Python (NumPy, Pandas, Seaborn, Matplotlib), SQL, Excel, and Power BI (DAX)** for analysis and dashboarding
 - 📈 Strong foundation in **statistics & ML: A/B testing, hypothesis testing, regression analysis, supervised & unsupervised machine learning, and NLP**
 - ☁️ Comfortable working with **AWS (S3, Glue, Athena)** and building end-to-end ETL pipelines
-- 🛠️ Built a **Streamlit-based MIS variance analysis tool** that automates audit query generation with severity-ranked risk tags
-- 💬 Ask me about **dashboard development, cohort/retention analysis**
+- 🚀 **Actively looking for opportunities** in Data Analytics / Data Science
+- 💬 Ask me about **dashboard development, cohort/retention analysis, ETL design, or experiment design**
 - 📫 Reach me via the links below
 
 ---
