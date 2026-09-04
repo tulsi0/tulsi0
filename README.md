@@ -1,49 +1,57 @@
-<h1 align="center">Hi 👋, I'm Tulsi</h1>
-<h3 align="center">Data Analyst | Data Scientist | Turning raw data into decisions</h3>
+<h1 align="center">Hi 👋, I'm Tulsi Rajora</h1>
+<h3 align="center">Data Analyst @ Maha & Co | Power BI • SQL • Python | Biomedical Engineering background</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist;SQL+%2B+Python+%2B+Power+BI+%2F+Tableau;Turning+messy+data+into+clean+insights;Open+to+Data+Analytics+%2F+Data+Science+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%40+Maha+%26+Co;Power+BI+%2B+SQL+%2B+Python+%2B+ML;Dashboards%2C+MIS+Automation%2C+Data-driven+Decisions;Turning+messy+data+into+clean+insights" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔍 I work with data end-to-end — cleaning, analyzing, modeling, and visualizing it to answer real business questions
-- 📊 Comfortable across **SQL data warehousing, Python-based ML, and BI dashboards**
-- 🧠 Interested in applying data science to **healthcare, customer analytics, and privacy-preserving ML**
-- 🌱 Currently sharpening my skills in **federated learning, dashboarding, and end-to-end analytics pipelines**
-- 💬 Ask me about **EDA, churn/cohort analysis, SQL warehousing, or dashboard design**
-- 📫 Reach me via my GitHub profile or the links below
+- 🧬 Research-oriented foundation from **Biomedical Engineering** — presented work on privacy-preserving Parkinson's disease classification using federated learning at the **IEEE Student Research Conference 2025**
+- 📊 Skilled in **Python (NumPy, Pandas, Seaborn, Matplotlib), SQL, Excel, and Power BI (DAX)** for analysis and dashboarding
+- 📈 Strong foundation in **statistics & ML: A/B testing, hypothesis testing, regression analysis, supervised & unsupervised machine learning, and NLP**
+- ☁️ Comfortable working with **AWS (S3, Glue, Athena)** and building end-to-end ETL pipelines
+- 🛠️ Built a **Streamlit-based MIS variance analysis tool** that automates audit query generation with severity-ranked risk tags
+- 💬 Ask me about **dashboard development, cohort/retention analysis**
+- 📫 Reach me via the links below
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Querying**
+**Languages & Libraries**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Data Analysis & ML**
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Visualization & BI**
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-
-**Tools**
-
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Statistics & Machine Learning**
+
+![A/B Testing](https://img.shields.io/badge/-A%2FB%20Testing-4CAF50?style=flat-square)
+![Hypothesis Testing](https://img.shields.io/badge/-Hypothesis%20Testing-4CAF50?style=flat-square)
+![Regression Analysis](https://img.shields.io/badge/-Regression%20Analysis-4CAF50?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-9C27B0?style=flat-square)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -51,12 +59,12 @@
 
 | Project | Description |
 |---|---|
-| 🛍️ [**Customer Retention Analysis**](https://github.com/tulsi0/Customer-Retention-Analysis) | End-to-end customer retention, churn, and revenue cohort analysis on real-world e-commerce data using Python |
-| 🏭 [**SQL Data Warehouse Project**](https://github.com/tulsi0/sql_data_warehouse_project) | Data warehouse design and T-SQL pipeline for structured, analytics-ready data |
-| 🏥 [**Privacy-Preserving Parkinson's Disease Classification**](https://github.com/tulsi0/Privacy-Preserving-Parkinson-s-Disease-Classification-Using-Federated-Learning-) | Federated learning approach to classify Parkinson's Disease while preserving patient data privacy |
-| 👥 [**HR Analyst Dashboard**](https://github.com/tulsi0/HR-analyst-dashboard-) | Interactive HR analytics dashboard for workforce insights |
+| 🛍️ [**Customer Retention & Revenue Cohort Analysis**](https://github.com/tulsi0/Customer-Retention-Analysis) | Analyzed ~500K e-commerce transactions in Python; built a cohort retention model revealing a **37% first-month churn rate** and found wholesale customers drove **~70% of total revenue** |
+| 🏭 [**Data Warehouse & Analytics Project**](https://github.com/tulsi0/sql_data_warehouse_project) | Built a modern SQL Server data warehouse with **Bronze–Silver–Gold ETL pipelines** and star-schema models; developed SQL analytics for customer, product, and sales reporting |
+| 📊 [**TechiHub HR Analytics Dashboard**](https://github.com/tulsi0/HR-analyst-dashboard-) | End-to-end Power BI dashboard (DAX + data modelling) analyzing **29% workforce attrition**, compensation gaps, and exit-reason patterns for HR decision-making |
+| 🏥 [**Privacy-Preserving Parkinson's Disease Classification**](https://github.com/tulsi0/Privacy-Preserving-Parkinson-s-Disease-Classification-Using-Federated-Learning-) | Federated learning approach to classify Parkinson's Disease while preserving patient privacy — presented at **IEEE Student Research Conference 2025** |
 | 🎙️ [**Amazon Alexa Review Analysis**](https://github.com/tulsi0/amazon_alexa_review) | Sentiment and review analysis on Amazon Alexa product data |
-| 📋 [**MIS Audit System**](https://github.com/mahaanco/MIS-audit-system) | Python-based MIS audit system for structured reporting |
+| 📋 [**MIS Audit System**](https://github.com/mahaanco/MIS-audit-system) | Streamlit-based MIS variance analysis tool — flags deviations, generates severity-ranked audit queries with risk tags, exports to Excel |
 
 ---
 
@@ -76,9 +84,8 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tulsi-rajora-"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:tulsirajora02@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/tulsi0">tulsi0</a> — thanks for stopping by!</i></p>
-
